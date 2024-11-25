@@ -1,0 +1,48 @@
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.exe
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.deps.json
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.runtimeconfig.json
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.dll
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.pdb
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\_231116008_Murat_Aktaş_yılan_oyunu.Form1.resources
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.csproj.GenerateResource.cache
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.AssemblyInfoInputs.cache
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.AssemblyInfo.cs
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.csproj.CoreCompileInputs.cache
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.dll
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\refint\231116008 Murat Aktaş yılan oyunu.dll
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.pdb
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.genruntimeconfig.cache
+C:\Users\murat\OneDrive - Muş Alparslan Üniversitesi\Desktop\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\ref\231116008 Murat Aktaş yılan oyunu.dll
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.exe
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.deps.json
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.runtimeconfig.json
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.dll
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.pdb
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\_231116008_Murat_Aktaş_yılan_oyunu.Form1.resources
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.csproj.GenerateResource.cache
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.AssemblyInfoInputs.cache
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.AssemblyInfo.cs
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.csproj.CoreCompileInputs.cache
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.dll
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\refint\231116008 Murat Aktaş yılan oyunu.dll
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.pdb
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.genruntimeconfig.cache
+D:\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\ref\231116008 Murat Aktaş yılan oyunu.dll
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.exe
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.deps.json
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.runtimeconfig.json
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.dll
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\bin\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.pdb
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\_231116008_Murat_Aktaş_yılan_oyunu.Form1.resources
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.csproj.GenerateResource.cache
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.AssemblyInfoInputs.cache
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.AssemblyInfo.cs
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.csproj.CoreCompileInputs.cache
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.dll
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\refint\231116008 Murat Aktaş yılan oyunu.dll
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.pdb
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\231116008 Murat Aktaş yılan oyunu.genruntimeconfig.cache
+D:\1.YIL\c#\231116008 Murat Aktaş yılan oyunu\231116008 Murat Aktaş yılan oyunu\obj\Debug\net6.0-windows\ref\231116008 Murat Aktaş yılan oyunu.dll
